@@ -619,9 +619,9 @@ BUTTONS_KEY: Final = [
         CONF_DISABLED_BY_DEFAULT: False,
     },
     {
-        CONF_NAME: "Stop",
-        CONF_ID: "key_media_stop",
-        CONF_ICON: "mdi:stop",
+        CONF_NAME: "Power",
+        CONF_ID: "key_media_power",
+        CONF_ICON: "mdi:power",
         CONF_VALUE: (4, 0),
         CONF_DISABLED_BY_DEFAULT: False,
     },
