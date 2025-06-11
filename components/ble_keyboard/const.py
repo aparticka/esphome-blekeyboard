@@ -63,7 +63,7 @@ LIBS_ADDITIONAL: Final = [
         None,
     ),
     (
-        "aparticka/ESP32 BLE Keyboard",
+        "aparticka/ESP32 BLE Keyboard Power Button",
         "0.3.3",
         None,
     ),
